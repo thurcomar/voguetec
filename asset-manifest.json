@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/voguetec/static/css/main.c14ce4a6.css",
-    "main.js": "/voguetec/static/js/main.d610707a.js",
+    "main.js": "/voguetec/static/js/main.cc2a0ae7.js",
     "static/js/488.16cd7ca3.chunk.js": "/voguetec/static/js/488.16cd7ca3.chunk.js",
     "static/media/image1.jpg": "/voguetec/static/media/image1.9043e9d39c5258309ac7.jpg",
     "static/media/image4.jpg": "/voguetec/static/media/image4.9ad019e56b0ae7ee8197.jpg",
@@ -11,11 +11,11 @@
     "static/media/image5.jpg": "/voguetec/static/media/image5.26def1bb619e96fb1dc6.jpg",
     "index.html": "/voguetec/index.html",
     "main.c14ce4a6.css.map": "/voguetec/static/css/main.c14ce4a6.css.map",
-    "main.d610707a.js.map": "/voguetec/static/js/main.d610707a.js.map",
+    "main.cc2a0ae7.js.map": "/voguetec/static/js/main.cc2a0ae7.js.map",
     "488.16cd7ca3.chunk.js.map": "/voguetec/static/js/488.16cd7ca3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c14ce4a6.css",
-    "static/js/main.d610707a.js"
+    "static/js/main.cc2a0ae7.js"
   ]
 }
